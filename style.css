@@ -21,7 +21,7 @@ body {
     background-position: center;
     background-size: cover;
     width: 300px;
-    height: 380px;
+    height: 500px;
     background: #fff;
 }
 
@@ -47,11 +47,12 @@ body {
     padding: 0;
     text-align: center;
     line-height: 20px;
+    color: #0000f5;
 }
 
 .swiper-slide .details h3 span {
     font-size: 16px;
-    color: #f44336;
+    color: #111;
 }
 
 section {
@@ -123,8 +124,8 @@ position: absolute;
 
 .banner .content h1 {
     padding-top: 50px;
-    color: #fff;
-    font-size: 6em;
+    color: #4d4d4d;
+    font-size: 3em;
     text-align: center;
     border-style: solid;
     border: 2px;
@@ -133,7 +134,7 @@ position: absolute;
 
 .banner .content h2 {
     color: #111;
-    font-size: 4em;
+    font-size: 5em;
     text-align: center;
 }
 
