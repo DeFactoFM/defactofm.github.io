@@ -95,7 +95,8 @@
     }
     
     .titleText {
-        padding-left: 100px;
+        padding-left: 70px;
+
     }
     
 }
@@ -138,8 +139,8 @@
     }
     
     .titleText {
-        padding-left: 50px;
-        font
+        padding-left: 27px;
+        font-size: 0.7em;
     }
     
     .text {
@@ -194,7 +195,10 @@
     footer .container__footer .aboutus {
         width: 60%;
     }
-    
+    .titleText {
+        padding-left: 27px;
+        font-size: 0.2em;
+    }
     
 }
 
@@ -205,5 +209,9 @@
         height: 35px;
         margin-right: 5px;
     } 
+    .titleText {
+        padding-left: 27px;
+        font-size: 0.2em;
+    }
     
 }
